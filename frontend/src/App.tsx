@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { LogOut, Send, Trash2, MessageSquare, User, Mail, Lock, UserPlus, LogIn } from 'lucide-react'
+import { LogOut, Send, Trash2, MessageSquare, User, Mail, Lock } from 'lucide-react'
 
 interface Post {
   id: number
