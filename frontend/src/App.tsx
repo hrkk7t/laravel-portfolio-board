@@ -24,7 +24,7 @@ function App() {
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
 
-  const baseUrl = 'https://laughing-pancake-97699qw4w965hxw9r-8000.app.github.dev'
+  const baseUrl = 'https://synapse-backend-qs03.onrender.com'
 
   // Fetch All Posts
   const fetchPosts = async () => {
